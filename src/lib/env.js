@@ -1,0 +1,1 @@
+export const URL_POSTS = import.meta.env.VITE_URL_POSTS;
